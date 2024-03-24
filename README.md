@@ -1,27 +1,26 @@
-# Todoapp
+# Project Description
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1.
+## ToDoApp
+NgRx Signal Store Practice
 
-## Development server
+### Overview
+This project serves as a playground for practicing the newly added feature in NgRx called NgRx Signal Store. The main focus of this project is to explore and understand the functionality, implementation, and benefits of NgRx Signal Store within an Angular application.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Features
+- **NgRx Signal Store Integration:** The project showcases the integration of NgRx Signal Store within an Angular application.
+- **Signal Dispatching:** Explore how to dispatch signals within NgRx Signal Store to trigger specific actions.
+- **State Management:** Understand how NgRx Signal Store enhances state management capabilities within Angular applications.
+- **Practice Environment:** Provides a conducive environment to experiment with NgRx Signal Store's features and functionalities.
 
-## Code scaffolding
+### Getting Started
+To get started with this project, follow these steps:
+1. Clone the repository to your local machine.
+2. Install dependencies using `npm install`.
+3. Explore the project structure and familiarize yourself with the NgRx Signal Store implementation.
+4. Experiment with dispatching signals and observing their effects on the application's state.
+5. Refer to the documentation or NgRx Signal Store resources for deeper insights.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Usage
+Below are some basic commands to get started with the project:
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- `npm start`: Runs the development server.
