@@ -1,0 +1,8 @@
+<div class="app">
+    @if(store.loading()) {
+        <mat-spinner></mat-spinner>
+    }
+    @else {
+        <todos-list></todos-list>
+    }
+</div>
